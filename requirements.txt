@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+tqdm
+torch
+transformers
+faster-whisper
+catboost
