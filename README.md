@@ -57,4 +57,4 @@ The final model was trained on the complete training set and used to generate pr
 ```text
 shl-grammar-scoring-engine/
 ├── README.md
-└── shl_grammar_scoring_clean.ipynb
+├── shl_grammar_scoring.ipynb
